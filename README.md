@@ -9,6 +9,7 @@ Preparation:
 2. prepare .boto file as:
 
 [Credentials]
+
 aws_access_key_id = AKIXXXXXXXXXXXXXXXX
 
 aws_secret_access_key = YYYYYYYYYYYYYYYYYYYYYYYYYYYYYYY
